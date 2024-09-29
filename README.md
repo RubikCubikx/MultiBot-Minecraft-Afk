@@ -27,6 +27,8 @@ npm install mineflayer
 npm install mineflayer-pathfinder
 npm readline
 
+> Make all the important changes in the settings.json
+
 > Navigate to the Installation Path: Use the command below to navigate to the directory where MultiBot is installed:
 
 cd [path-to-your-MultiBot-directory]
