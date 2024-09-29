@@ -23,8 +23,11 @@ Welcome to the MultiBot GitHub repository! MultiBot is a powerful tool designed 
 > Install Required Modules: Open the command prompt and navigate to the MultiBot directory. Use the following commands to install the necessary modules and plugins:
 
 npm install minecraft-data
+
 npm install mineflayer
+
 npm install mineflayer-pathfinder
+
 npm readline
 
 > Make all the important changes in the settings.json
